@@ -1,1 +1,1 @@
-print("that's a home page")
+print("that's a home page and old page")
